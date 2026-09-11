@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hawkins Emotional Surrender"
+  short_description: "Surrender and transcend emotions with Hawkins"
+  default_prompt: "Use $hawkins-emotional-surrender to help me release this emotional pattern and move into the highest honest state available now."
+policy:
+  allow_implicit_invocation: true
