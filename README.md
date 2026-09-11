@@ -4,282 +4,272 @@
 
 ---
 
+基于 大卫·霍金斯 情绪释放与意识能量层级成长框架的情绪陪伴 AI Skill。  
+An AI emotional-support skill inspired by David R. Hawkins’s framework of surrender and growth in consciousness.
+
+Built by Martin Lotus Wong. 12/9/2026. 
+
+---
+
 ## 中文
 
-### 简介
+### 这是什么
 
-`hawkins-emotional-surrender` 是一个以大卫·霍金斯（David R. Hawkins）的情绪释放体系为基础的 AI skill，用于陪伴用户面对并解脱于当下的情绪痛苦、反复出现的负面情绪、关系困扰、内在冲突，以及“明白道理却仍然放不下”的状态。
+帮助你面对并解脱于当下的情绪痛苦、反复出现的负面情绪、困扰，以及“明白道理却仍然放不下”的状态。并逐步回到更有力量、更积极、更支持生活的状态。
 
-它以《臣服之享》（*Letting Go: The Pathway of Surrender*）作为情绪释放的核心素材，以《超越意识层级》（*Transcending the Levels of Consciousness*）作为升维流程的核心素材，并以《意念力——激发你的潜在力量》（*Power vs. Force*）补充意识地图与理论背景，让 AI 不只复述概念，而是能够：
+参考大卫·霍金斯（David R. Hawkins）的三本代表作：
 
-- 引导一次当下可执行的放下与超越（surrender and transcend）过程；
-- 从霍金斯的原著框架解释情绪与行为模式；
-- 识别压抑、表达、逃避与真正臣服式放下（surrender）之间的差别；
-- 探索情绪背后的依附 (attachment)、抗拒、恐惧、欲望与隐性收益（hidden payoff）；
-- 在情绪松动后，主动引导用户进入真实可用的更高视角，并允许一次完成多次升维；
-- 当情绪涉及他人时，按需帮助用户识别、看见和同理双方情绪；
-- 在适当的时候，把释放后的清晰转化为现实行动。
+- *Letting Go: The Pathway of Surrender* 《臣服之享》：如何允许、释放与放下情绪；
+- *Transcending the Levels of Consciousness*：不同情绪状态的局限，以及如何向更高视角转化；
+- *Power vs. Force* 《意念力——激发你的潜在力量》：介绍意识地图。
 
-技能的内部资料与指令使用英文，但会跟随用户的语言作答。用户用中文提问时，AI 会自然地用中文回应；引用原著时，通常保留英文原文并用用户的语言解释。
+恐惧、愤怒、悲伤、勇气、接纳、爱与喜悦，不只是“好情绪”和“坏情绪”，而是会影响我们如何看待世界、他人和自己的一组组不同状态。这个 SKILL 会把这一框架用于自我觉察和现实行动，而不是给你贴标签或判定分数。
 
-### 核心特色
+### 适合哪些时候使用
 
-#### 1. 原著优先
+当你正在经历以下情况时，可以使用它：
 
-当用户询问“为什么会这样”“这意味着什么”或“霍金斯会如何理解”时，AI 应先从相关原著章节提取框架，再进行解释，而不是套用通用心理鸡汤或生产力建议。
+- 焦虑、害怕、愤怒、委屈、内疚、羞耻、悲伤、嫉妒或怨恨；
+- 明明知道道理，却还是放不下；
+- 同一种情绪、关系冲突或自我怀疑不断重复；
+- 分手、失去、被拒绝、被否定，或与重要的人发生冲突；
+- 想变得更积极、有力量，但不想靠压抑、假装或逃避；
+- 想了解霍金斯博士会如何解释自己的经历；
 
-在解释或教学场景中，回复通常会包含至少一段相关的英文原文，并标注书名及章节或小节。
+### 它会怎样帮助你
 
-三本书不是简单按第一、第二、第三排序，而是各自承担不同任务：
+它通常会根据你的需要做其中的一部分或几部分：
 
-- 《臣服之享》（*Letting Go*）是释放情绪能量的操作依据；
-- 《超越意识层级》（*Transcending the Levels of Consciousness*）是识别某一状态的结构性限制、放下该限制并进入更高语境的操作依据；
-- 《意念力——激发你的潜在力量》（*Power vs. Force*）提供意识地图和 power / force 的背景对照。
+1. 先帮助你看见并容纳此刻真实的感受；
+2. 分清情绪本身、脑中的故事，以及你正在抗拒或执着的东西；
+3. 用霍金斯的原著框架解释反复模式；
+4. 帮你松开让情绪持续消耗你的抗拒、依附或立场；
+5. 在合适的时候，探索更有勇气、接纳、清晰、爱或行动力的视角；
+6. 帮你把内在变化落实为现实中的边界、沟通、修复、选择或下一步行动。
 
-因此，只要回复开始解释或引导“如何超越当前状态”，就必须读取《超越意识层级》中对应的章节与超越小节，不能只引用《臣服之享》后再补一个通用的积极重构。
+目标是逐步提升你面对生活时的情绪状态与行动能力。
 
-#### 2. 先处理感受，再处理故事
+### 如何开始
 
-当用户正处于明显的情绪激活中，AI 会优先帮助用户觉察身体中的感受，允许感受存在，并暂时放下改变、分析或摆脱它的冲动。只有在情绪强度下降后，才进一步讨论意义、选择或行动。
+本 SKILL 可以安装在豆包、Codex、Claude、Trae、Workbuddy、Catpaw、Hermes、Grok 等各种主流 AI 工具中调用（不支持 Gemini）。直接下载压缩包后上传技能即可。直接说出正在发生的事、你的感受，以及你现在需要什么。
 
-#### 3. 不把臣服式放下（surrender）变成另一种控制
-
-目标包括真实地向更自由、更有力量、更支持生命的状态移动，但不是强迫情绪消失、表演“高能量”，也不是用灵性概念否认现实问题。反复出现的感受不代表失败；放下（letting go）是停止给感受继续供能，而不是命令它离开。更高视角必须更诚实、更少受情绪驱使，并带来更大的选择空间，否则就应回到尚未处理完的感受。
-
-#### 4. 霍金斯特有的解释路径
-
-技能会优先使用霍金斯的概念，例如：
-
-- 有意识压抑（suppression）、无意识压抑（repression）、情绪表达（expression）与逃避（escape）；
-- 依附（attachment）、排斥（aversion）与抗拒（resistance）；
-- 渴求认同（wanting approval）、渴求控制（wanting control）、渴求安全（wanting security）与寻求分离（wanting separation）；
-- 隐性收益（hidden payoff）；
-- 勇气（Courage）、乐意（Willingness）、接纳（Acceptance）与仁爱（Love）等意识状态；
-- 臣服式放下（surrender）后，由清晰而非强迫产生的行动。
-
-意识层级用于提供理解视角，不用于给用户做确定性的数字校准或人格定级。
-
-#### 5. 明确的超越流程
-
-情绪能量得到充分允许和释放之后，AI 不会只问“现在是不是轻一点”，而会继续完成以下检查：
-
-1. 暂定当前正在运作的情绪模式，不把它当成用户的人格或固定层级；
-2. 读取《超越意识层级》中与该模式相符的原文章节；
-3. 找出这一状态特有的执着、立场、隐性收益或结构性限制；
-4. 同时放下情绪能量和维持它的限制性前提；
-5. 邀请原著所指向的更高语境，并检验它是否在体验上真实；
-6. 如果新状态已经稳定、用户仍有余力，就从新出现的限制继续下一轮，一次对话可以完成多次升维；
-7. 让更高状态体现为现实中的边界、责任、修复、服务、决定、表达或有意识的不行动。
-
-这不是强制逐级爬梯。一次过程可以跨越若干层级，也可能只获得一点空间。更高状态必须更诚实、更自由、更包容现实，并带来更有效的选择；仅仅同意一句积极的话，不算完成超越。
-
-#### 6. 安全边界
-
-这是一个自我觉察与情绪陪伴工具，不是心理治疗、医疗诊断或危机干预服务。
-
-当用户出现自杀、自伤、暴力、虐待、严重失去现实感或其他迫切危险信号时，AI 应停止沉浸式情绪练习，优先确认即时安全，并鼓励用户联系当地紧急服务、危机热线或可信任的人。臣服式放下（surrender）不等于忍受虐待、放弃边界或拒绝必要的专业帮助。
-
-技能不进行远程肌肉测试、数字校准、医学诊断，也不会声称自己就是大卫·霍金斯（David R. Hawkins）本人。
-
-### 适用场景
-
-- 焦虑、恐惧、羞耻、内疚、愤怒、悲伤、嫉妒或怨恨；
-- 分手、丧失、拒绝、冲突与关系依附；
-- 拖延、动力下降、完美主义与证明自己的压力；
-- 同一种情绪或关系模式反复出现；
-- 对臣服式放下（surrender）、接纳（acceptance）、不执著（nonattachment）或意识层级的原著解释；
-- 想在情绪释放后做出更清晰的现实选择。
-
-### 使用方式
-
-直接在问题中调用技能，并按平常说话的方式描述正在发生的事情：
+例如：
 
 ```text
-$hawkins-emotional-surrender 我刚被领导当众否定，现在很愤怒。不要分析，先带我做一次放下（letting go）。
+$hawkins-emotional-surrender 我刚被领导当众否定，现在非常愤怒。
 ```
 
 ```text
-$hawkins-emotional-surrender 为什么我一到关键时刻就拖延？请从霍金斯的原著解释，并引用相关英文原文。
+$hawkins-emotional-surrender 我知道这段关系结束了，但还是很舍不得。
 ```
 
 ```text
-$hawkins-emotional-surrender 我已经放下很多次了，为什么同一种感受还会回来？
+$hawkins-emotional-surrender 我最近对未来很焦虑，也觉得自己很无力。帮我看看到底有哪些情绪在一起发生。
 ```
 
-用户可以明确指定自己想要的方式：
+示例问答：
+Claude Sonnet 5：
+/hawkins-emotional-surrender 我关心周围人的困难，但听完以后自己也被压得喘不过气。关心别人和不把别人的痛苦背在身上，怎么同时做到？
+https://claude.ai/share/85a39f97-38b9-473f-a006-5c5c1bf5de51
 
-- “先陪我做，不要解释。”
-- “只解释原著，不做练习。”
-- “请引用英文原文并用中文解释。”
-- “释放之后，再帮我决定下一步行动。”
-- “不要给我通用的效率或习惯建议。”
+GPT 5.6-Terra High：
+[$hawkins-emotional-surrender] 我刚到悉尼时，每天都非常兴奋。半年后，新鲜感消失了，尽管悉尼自然风光美丽，我开始因为全球经济下行而许多人没有出路等觉得百感交集。你来说一说这些是怎么回事？怎么办呢？
+https://chatgpt.com/s/cx_6aa3fd64a33081918a16d5edc6141196
 
-### 主要工作模式
 
-1. **当下放下与超越（Immediate surrender and transcend）**：处理此刻的情绪，并在情绪松动后主动检验一个或多个更高视角。
-2. **原著有据的阐释（Source-grounded interpretation）**：用原著解释经历、模式或观念。
-3. **模式探询（Pattern inquiry）**：探索反复模式背后的欲望、抗拒与隐性收益。
-4. **霍金斯思想讲解（Hawkins teaching）**：解释霍金斯的术语、章节与理论差别。
-5. **关系情绪桥接（Relational emotion bridge）**：涉及他人时，按需识别双方情绪与需要，提高情绪能见度并表达同理；只有具体情况需要时才进入共同目标、请求或解决方案。
-6. **整合与行动（Integration and action）**：让现实行动体现此次过程所达到的最高真实状态。
+### 关于意识地图
 
-### 素材结构
+意识地图（Map of Consciousness）是霍金斯提出的意识层级框架，把人的情绪和态度看成带有 "能量频率" 的状态，标在一条从 1 到 1000 的刻度上。
+刻度是对数的，非线性的。200 以下 他称为「force」，认为是消耗性、破坏生命的；200 以上 称为「力量 power」，是建设性、支持生命的。和现在人们说的“负能量““正能量“类似。
 
-技能包含：
+17 个典型层级从低到高分别是：
+20 羞耻 Shame
+自我否定，想消失，接近"死亡"感
+30 内疚 Guilt
+自责、悔恨、受害感
+50 冷漠 Apathy
+绝望、无助，放弃希望
+75 悲伤 Grief
+失落、消沉、悔恨过去
+100 恐惧 Fear
+世界充满威胁，防御求生
+125 欲望 Desire
+想要、追逐、上瘾与贪婪
+150 愤怒 Anger
+挫败之怒，可建设也可破坏
+175 骄傲 Pride
+靠外在条件支撑的防御性自尊
+200 勇气 Courage ★
+真正的力量出现，能面对现实
+250 中立 Neutrality
+灵活，不执着于结果
+310 主动 Willingness
+乐于负责、成长与助人
+350 接纳 Acceptance
+幸福源自内在，不再当受害者
+400 理性 Reason
+科学、逻辑与分析的领域
+500 仁爱 Love
+无条件之爱，发自内心而非依赖他人
+540 喜悦 Joy
+内在的喜悦与慈悲
+600 平和 Peace
+超越自我，宁静合一
+700–1000 开悟 Enlightenment
+非二元、与宇宙合一的极高峰（佛陀、基督等，按霍金斯说法）
 
-- 主指令：`SKILL.md`
-- 主题导航资料：`references/`
-- 逐层超越操作路由：`references/transcending-levels-process.md`
-- 三本原著的章节化文本：`sources/`
-- Codex 界面展示配置：`agents/openai.yaml`
+这套数字和 "校准" 方法属于霍金斯的个人主张，把它当作一个理解情绪、寻找成长方向的思考工具来读最合适，而不要纠结于数值本身。
+这个SKILL会把它用于理解当下正在发生的状态，也会注意一个人可以在不同事件、不同时间里同时有多种状态。
 
-原著按任务分工调用：
+### 安全提醒
 
-1. 释放情绪能量时，以《臣服之享》（*Letting Go: The Pathway of Surrender*）为主；
-2. 识别并超越特定意识状态时，以《超越意识层级》（*Transcending the Levels of Consciousness*）为主，而且必须读取对应章节；
-3. 解释意识地图、吸引子模式与 power / force 时，以《意念力——激发你的潜在力量》（*Power vs. Force*）为主。
-
-### 设计原则
-
-尽可能保留霍金斯方法的独特性：原著先于泛化建议，体验先于分析，surrender 先于 recontextualization，真实升维先于积极表演，清晰先于强迫行动。沟通方法只在相关时帮助用户把更高状态带入关系。
+这是一种自我觉察与情绪支持工具，不替代心理治疗、医疗诊断或危机服务。
+如果你正有自伤、伤害他人的冲动，处于暴力或虐待中，严重失眠并伴随异常兴奋或冲动，或感到自己难以分辨现实，请优先联系当地紧急服务、心理健康专业人士，或你信任的现实支持者。
+臣服与放下不意味着接受虐待、放弃边界、停止求助，或强迫自己原谅任何人。
 
 ---
 
 ## English
 
-### Overview
+### What It Is
 
-`hawkins-emotional-surrender` is an AI skill grounded in David R. Hawkins's approach to emotional surrender. It supports users facing immediate emotional distress, recurring negative patterns, relationship difficulties, inner conflict, and the familiar experience of understanding something intellectually while still being unable to let it go.
+Hawkins Emotional Surrender is an AI emotional-support skill built on David R. Hawkins's framework of emotional release and growth through the levels of consciousness.
 
-It uses *Letting Go: The Pathway of Surrender* as the core source for emotional release, *Transcending the Levels of Consciousness* as the core source for upward movement, and *Power vs. Force* for the map and theoretical background. The skill is designed to help an AI:
+It helps you meet and release present emotional pain, recurring negative emotions, inner conflict, and the familiar experience of understanding something intellectually while still being unable to let it go. Its aim is to help you gradually return to a state that is more empowered, positive, and supportive of life.
 
-- guide a practical surrender-and-transcend process in the present moment;
-- interpret emotions and behavior through Hawkins's original framework;
-- distinguish suppression, expression, escape, and genuine surrender;
-- investigate the attachment, resistance, fear, desire, or hidden payoff beneath a pattern;
-- actively test one or more authentically higher contexts after emotional charge softens;
-- when another person is involved, help make emotion visible and offer empathy when useful;
-- translate post-surrender clarity into grounded action when appropriate.
+It draws on three major works by David R. Hawkins:
 
-The skill's internal instructions and source materials are in English, while responses mirror the user's language. When the user writes in Chinese, the AI responds naturally in Chinese. Original passages are normally preserved in English and explained in the user's language.
+- *Letting Go: The Pathway of Surrender* — allowing, releasing, and letting go of emotions;
+- *Transcending the Levels of Consciousness* — the limitations of different emotional states and how they can open to a higher perspective;
+- *Power vs. Force* — an introduction to the Map of Consciousness.
 
-### Core Characteristics
+Fear, anger, grief, courage, acceptance, love, and joy are not merely “bad” or “good” emotions in Hawkins's framework. They are different states that shape how we see ourselves, other people, and life. This skill uses that framework for self-inquiry and real-world action, not to label you or assign you a score.
 
-#### 1. Source first
+### When It Can Help
 
-When a user asks why something is happening, what it means, or how Hawkins would understand it, the AI should consult the relevant source material before interpreting the experience. It should not default to generic self-help, coaching, or productivity advice.
+You may find this useful when you are:
 
-Interpretive and teaching responses normally include at least one relevant verbatim English passage, identified by book and chapter or section.
+- anxious, afraid, angry, ashamed, guilty, grieving, jealous, resentful, or emotionally stuck;
+- able to understand something intellectually but still unable to let it go;
+- caught in a recurring emotional or relationship pattern;
+- dealing with rejection, conflict, loss, criticism, or a breakup;
+- seeking a more positive and empowered state without suppressing, performing, or escaping your feelings;
+- curious about how Dr. Hawkins might understand your experience.
 
-The books have task-specific authority rather than a single fixed ranking:
+### How It Helps
 
-- *Letting Go* governs the experiential release of emotional charge.
-- *Transcending the Levels of Consciousness* governs the identification and relinquishment of a state's structural limitation and the higher context available beyond it.
-- *Power vs. Force* supplies the broad map and power/force contrasts.
+Depending on what you need, it may help you:
 
-Whenever a response explains or guides how a state is transcended, it must consult the matching chapter and transcendence section in *Transcending the Levels of Consciousness*. It must not cite only *Letting Go* and then substitute a generic positive reframe.
+1. notice and allow what you are actually feeling;
+2. distinguish the feeling itself from the story, resistance, or attachment around it;
+3. understand a recurring pattern through Hawkins’s original framework;
+4. loosen the resistance, attachment, or position that keeps an emotion consuming energy;
+5. explore a more courageous, accepting, clear, loving, or action-oriented perspective;
+6. bring an inner shift into a real-world boundary, conversation, repair, choice, or next action.
 
-#### 2. Attend to the feeling before the story
+The aim is to gradually strengthen both your emotional state and your ability to act in life.
 
-When the user is actively distressed, the AI first helps them notice the felt experience in the body, allow it to be present, and temporarily release the urge to change, analyze, or escape it. Meaning-making and action come later, after the activation has softened.
+### How to Start
 
-#### 3. Do not turn surrender into another control strategy
+This skill can be installed and invoked in mainstream AI tools such as Doubao, Codex, Claude, Trae, Workbuddy, Catpaw, Hermes, and Grok. Gemini is not supported. Download the skill archive and upload it to the relevant AI tool, then describe what is happening, how you feel, and what you need right now.
 
-The goal includes authentic movement toward freer, more powerful, and more life-supportive states. It does not mean forcing a feeling to disappear, performing a “high-energy state,” or using spiritual language to deny a real-life problem. A returning feeling does not mean the process failed. Letting go means withdrawing the energy that sustains the feeling, not ordering it to leave. A higher context must be more truthful, less compulsive, and more choice-giving; otherwise the process returns to the feeling that remains.
-
-#### 4. Preserve Hawkins-specific reasoning
-
-The skill prioritizes concepts characteristic of Hawkins's work, including:
-
-- suppression, repression, expression, and escape;
-- attachment, aversion, and resistance;
-- wanting approval, control, security, and separation;
-- hidden payoff;
-- courage, willingness, acceptance, love, and related states;
-- action arising from clarity rather than compulsion.
-
-Levels of consciousness may be used as an interpretive lens, but never as a definitive numerical calibration or personality label for the user.
-
-#### 5. An explicit transcendence process
-
-After emotional charge has been sufficiently allowed and released, the AI does not stop at “Do you feel lighter?” It continues by:
-
-1. tentatively locating the active pattern without assigning the person a fixed level;
-2. reading the corresponding chapter in *Transcending the Levels of Consciousness*;
-3. identifying the state-specific attachment, positionality, payoff, demand, or structural limitation;
-4. surrendering both the emotional energy and the premise that sustains it;
-5. inviting the higher context described by the source and testing whether it is experientially real;
-6. repeating from the newly active limitation while the user has capacity, allowing several transitions in one conversation;
-7. embodying the shift through a boundary, responsibility, repair, service, decision, expression, or conscious nonaction.
-
-This is not a compulsory staircase. A process may move across several states or yield only a little more space. A higher state must be more truthful, freer, more inclusive of reality, and more capable of effective choice; intellectual agreement with a positive statement is not transcendence.
-
-#### 6. Safety boundaries
-
-This is a self-inquiry and emotional-support tool, not psychotherapy, medical diagnosis, or crisis care.
-
-If a user signals suicide, self-harm, violence, abuse, severe loss of reality testing, or another urgent danger, the AI should stop immersive emotional exercises, prioritize immediate safety, and encourage contact with local emergency services, a crisis line, or a trusted person. Surrender does not mean tolerating abuse, abandoning boundaries, or refusing necessary professional care.
-
-The skill does not perform remote muscle testing, numerical calibration, or medical diagnosis, and it must not claim to be David R. Hawkins himself.
-
-### Suitable Use Cases
-
-- anxiety, fear, shame, guilt, anger, grief, jealousy, or resentment;
-- breakups, loss, rejection, conflict, and relationship attachment;
-- procrastination, reduced motivation, perfectionism, and pressure to prove oneself;
-- recurring emotional or relational patterns;
-- source-based questions about surrender, acceptance, nonattachment, or levels of consciousness;
-- finding a clearer practical choice after emotional activation has eased.
-
-### How to Use
-
-Invoke the skill in your prompt and describe the situation in ordinary language:
+For example:
 
 ```text
-$hawkins-emotional-surrender I was criticized in front of my team and I am furious. Do not analyze it yet; guide me through letting go first.
+$hawkins-emotional-surrender I was criticized in front of my team. I am furious.
 ```
 
 ```text
-$hawkins-emotional-surrender Why do I procrastinate whenever something really matters? Explain it through Hawkins's original work and include a relevant verbatim passage.
+$hawkins-emotional-surrender I know the relationship is over, but I still cannot let go.
 ```
 
 ```text
-$hawkins-emotional-surrender I have surrendered this feeling many times. Why does it keep returning?
+$hawkins-emotional-surrender I feel anxious about the future and powerless at the same time. Help me understand the different emotions that may be happening together.
 ```
 
-Users may specify the kind of response they want:
+### Example Conversations
 
-- “Guide me first; do not explain yet.”
-- “Explain the source material only; do not lead an exercise.”
-- “Quote the original English and explain it in Chinese.”
-- “After the feeling settles, help me choose the next action.”
-- “Do not give me generic productivity or habit advice.”
+**Claude Sonnet 5**
 
-### Operating Modes
+```text
+/hawkins-emotional-surrender I care about the difficulties people around me are facing, but after hearing about them I feel overwhelmed too. How can I care about others without carrying all of their pain myself?
+```
 
-1. **Immediate surrender and transcend** — work with a feeling that is active now, then actively test one or more higher contexts as capacity allows.
-2. **Source-grounded interpretation** — explain an experience, pattern, or idea through the books.
-3. **Pattern inquiry** — explore the wants, resistance, and hidden payoff sustaining a recurring pattern.
-4. **Hawkins teaching** — clarify Hawkins's terms, chapters, and conceptual distinctions.
-5. **Relational emotion bridge** — when another person is involved, recognize both sides' emotions and concerns, increase emotional visibility, and offer empathy; add goals, requests, or solutions only when the situation requires them.
-6. **Integration and action** — let real-world action embody the highest honest state reached.
+[Read the response](https://claude.ai/share/85a39f97-38b9-473f-a006-5c5c1bf5de51)
 
-### Material Structure
+**GPT-5.6 Terra High**
 
-The skill contains:
+```text
+[$hawkins-emotional-surrender] When I first arrived in Sydney, I felt excited every day. Half a year later, the novelty has faded. Although Sydney is still naturally beautiful, I feel many mixed emotions when I think about the global economic downturn and how many people seem to have no way forward. What is happening here, and what can I do?
+```
 
-- primary instructions in `SKILL.md`;
-- topical navigation material in `references/`;
-- a level-specific transition router in `references/transcending-levels-process.md`;
-- chapter-organized text from all three books in `sources/`;
-- Codex presentation configuration in `agents/openai.yaml`.
+[Read the response](https://chatgpt.com/s/cx_6aa3fd64a33081918a16d5edc6141196)
 
-Source selection follows the task:
+### About the Map of Consciousness
 
-1. use *Letting Go: The Pathway of Surrender* as primary authority for emotional release;
-2. use the matching chapter of *Transcending the Levels of Consciousness* as primary and mandatory authority for a level-specific transition;
-3. use *Power vs. Force* as primary authority for the broader map, attractor patterns, and power/force distinctions.
+The Map of Consciousness is Hawkins's framework for the levels of consciousness. It treats emotions and attitudes as states with different “energy frequencies,” arranged on a scale from 1 to 1,000.
 
-### Design Principle
+The scale is logarithmic and nonlinear. In Hawkins's terminology, states below 200 are called **force**, which he sees as draining and destructive to life; states above 200 are called **power**, which he sees as constructive and life-supporting. It is broadly similar to the contemporary language of “negative” and “positive” energy.
 
-It preserves what is distinctive in Hawkins's method: source before generalized advice, experience before analysis, surrender before recontextualization, authentic upward movement before positive performance, and clarity before compelled action. Communication remains a conditional way to embody the higher state in relationship.
+The 17 commonly discussed levels, from lower to higher, are:
+
+**20 — Shame**  
+Self-negation, a wish to disappear, and a feeling close to “death.”
+
+**30 — Guilt**  
+Self-blame, remorse, and a sense of victimhood.
+
+**50 — Apathy**  
+Despair, helplessness, and giving up hope.
+
+**75 — Grief**  
+Loss, low mood, and regret about the past.
+
+**100 — Fear**  
+The world feels threatening; life is organized around defense and survival.
+
+**125 — Desire**  
+Wanting, pursuit, addiction, and greed.
+
+**150 — Anger**  
+Anger born of frustration; it can be constructive or destructive.
+
+**175 — Pride**  
+Defensive self-esteem sustained by external conditions.
+
+**200 — Courage ★**  
+The emergence of genuine power and the ability to face reality.
+
+**250 — Neutrality**  
+Flexibility and reduced attachment to outcomes.
+
+**310 — Willingness**  
+A readiness to take responsibility, grow, and help others.
+
+**350 — Acceptance**  
+Happiness arises from within; one no longer lives solely as a victim.
+
+**400 — Reason**  
+The domain of science, logic, and analysis.
+
+**500 — Love**  
+Unconditional love arising from within rather than dependency on others.
+
+**540 — Joy**  
+Inner joy and compassion.
+
+**600 — Peace**  
+Transcendence of the personal self; quiet unity.
+
+**700–1,000 — Enlightenment**  
+Nonduality and unity with the universe at the highest peak—associated by Hawkins with figures such as the Buddha and Christ.
+
+The numbers and calibration method are Hawkins's personal claims. They are best used as a way to understand emotion and seek a direction for growth, rather than as numbers to fixate on. This skill uses the map to understand active states in context and recognizes that a person may have several states across different events and moments.
+
+### Important Safety Reminder
+
+This is a self-inquiry and emotional-support tool. It is not a substitute for psychotherapy, medical diagnosis, or crisis care.
+
+If you are at risk of harming yourself or someone else, are in immediate danger or abuse, are severely sleep-deprived with unusual excitement or impulsivity, or are struggling to distinguish reality, please prioritize local emergency support, a qualified mental-health professional, or a trusted person in your life.
+
+Surrender and letting go do not mean accepting abuse, abandoning boundaries, avoiding help, or forcing forgiveness.
