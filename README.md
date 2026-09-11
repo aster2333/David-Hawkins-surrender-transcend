@@ -83,39 +83,56 @@ https://chatgpt.com/s/cx_6aa3fd64a33081918a16d5edc6141196
 刻度是对数的，非线性的。200 以下 他称为「force」，认为是消耗性、破坏生命的；200 以上 称为「力量 power」，是建设性、支持生命的。和现在人们说的“负能量““正能量“类似。
 
 17 个典型层级从低到高分别是：
-20 羞耻 Shame
+
+**20 羞耻 Shame**
 自我否定，想消失，接近"死亡"感
-30 内疚 Guilt
+
+**30 内疚 Guilt**
 自责、悔恨、受害感
-50 冷漠 Apathy
+
+**50 冷漠 Apathy**
 绝望、无助，放弃希望
-75 悲伤 Grief
+
+**75 悲伤 Grief**
 失落、消沉、悔恨过去
-100 恐惧 Fear
+
+**100 恐惧 Fear**
 世界充满威胁，防御求生
-125 欲望 Desire
+
+**125 欲望 Desire**
 想要、追逐、上瘾与贪婪
-150 愤怒 Anger
+
+**150 愤怒 Anger**
 挫败之怒，可建设也可破坏
-175 骄傲 Pride
+
+**175 骄傲 Pride**
 靠外在条件支撑的防御性自尊
-200 勇气 Courage ★
+
+**200 勇气 Courage**
 真正的力量出现，能面对现实
-250 中立 Neutrality
+
+**250 中立 Neutrality**
 灵活，不执着于结果
-310 主动 Willingness
+
+**310 主动 Willingness**
 乐于负责、成长与助人
-350 接纳 Acceptance
+
+**350 接纳 Acceptance**
 幸福源自内在，不再当受害者
-400 理性 Reason
+
+**400 理性 Reason**
 科学、逻辑与分析的领域
-500 仁爱 Love
+
+**500 仁爱 Love**
 无条件之爱，发自内心而非依赖他人
-540 喜悦 Joy
+
+**540 喜悦 Joy**
 内在的喜悦与慈悲
-600 平和 Peace
+
+**600 平和 Peace**
 超越自我，宁静合一
-700–1000 开悟 Enlightenment
+
+**700–1000 开悟 Enlightenment**
 非二元、与宇宙合一的极高峰（佛陀、基督等，按霍金斯说法）
 
 这套数字和 "校准" 方法属于霍金斯的个人主张，把它当作一个理解情绪、寻找成长方向的思考工具来读最合适，而不要纠结于数值本身。
@@ -237,7 +254,7 @@ Anger born of frustration; it can be constructive or destructive.
 **175 — Pride**  
 Defensive self-esteem sustained by external conditions.
 
-**200 — Courage ★**  
+**200 — Courage**  
 The emergence of genuine power and the ability to face reality.
 
 **250 — Neutrality**  
